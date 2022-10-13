@@ -1,0 +1,16 @@
+{
+  "name": "com.ineor.notification-system",
+  "version": "1.0.0",
+  "displayName": "Notification System",
+  "description": "Notification Unity package for decoupling UI from game logic",
+  "unity": "2019.1",
+  "keywords": [
+    "notifications",
+    "decoupling",
+    "events"
+  ],
+  "author": {
+    "name": "Mihael Golob",
+    "email": "mihael.golob@ineor.si"
+  }
+}
