@@ -1,3 +1,3 @@
 # Notification system 
-**Notification Unity package for decoupling UI from game logic.**
+**Notification Unity package for easy events and notifications.**
 

@@ -2,7 +2,7 @@
   "name": "com.ineor.notification-system",
   "version": "1.0.0",
   "displayName": "Notification System",
-  "description": "Notification Unity package for decoupling UI from game logic",
+  "description": "Notification Unity package for easy events and notifications",
   "unity": "2019.1",
   "keywords": [
     "notifications",
